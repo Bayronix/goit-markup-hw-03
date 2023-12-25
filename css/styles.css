@@ -47,7 +47,7 @@ body {
   margin-right: 76px;
 }
 
-.navigation_header {
+.navigation {
   display: flex;
   align-items: center;
 }
@@ -101,14 +101,14 @@ nav ul {
 
 /* Вирівнювання тексту у списку */
 
-.address-wrap-add ul {
+.address ul {
   display: flex;
   gap: 40px;
   right: 0;
   box-sizing: border-box;
 }
 
-.address-wrap-add {
+.address {
   font-style: normal;
 }
 
