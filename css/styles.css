@@ -47,7 +47,7 @@ body {
   margin-right: 76px;
 }
 
-.navigation {
+.navigation_header {
   display: flex;
   align-items: center;
 }
@@ -68,6 +68,7 @@ nav ul {
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
   text-decoration: none;
+  padding: 24px 0;
 }
 
 .nav-link:hover {
@@ -105,8 +106,6 @@ nav ul {
   gap: 40px;
   right: 0;
   box-sizing: border-box;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .address-wrap-add {
