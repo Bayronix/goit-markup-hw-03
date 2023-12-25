@@ -122,7 +122,7 @@ nav ul {
 /* Section-1 */
 /* Стилі для заголовка в першій секції */
 /* Стилі для секції */
-.container .section_wraper {
+.container .first-section {
   background-color: #2e2f42;
   padding: 188px 0;
 }
