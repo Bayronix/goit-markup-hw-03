@@ -260,6 +260,8 @@ nav ul {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .logo {
@@ -275,6 +277,7 @@ nav ul {
 .footer {
   background-color: #2e2f42;
   color: #fff;
+  padding: 100px 0;
 }
 
 .footer-paragraph {
