@@ -103,10 +103,10 @@ nav ul {
 .address-wrap-add ul {
   display: flex;
   gap: 40px;
-  position: absolute;
-  top: 0;
   right: 0;
   box-sizing: border-box;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .address-wrap-add {
