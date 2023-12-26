@@ -22,6 +22,10 @@ body {
   margin-right: auto;
 }
 
+.section ul {
+  list-style-type: none; /* Вимикаємо маркери */
+}
+
 .title {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -254,6 +258,7 @@ nav ul {
 .name {
   padding: 32px 0;
 }
+
 /* Section 4 */
 .portfolio-section {
   background: var(--WHITE, #fff);
