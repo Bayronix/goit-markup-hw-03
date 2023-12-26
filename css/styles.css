@@ -244,11 +244,27 @@ nav ul {
   text-transform: capitalize;
   margin-bottom: 72px;
 }
-.start_apps {
+.porfolio-position {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+}
+.portfolio-position {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.start-apps {
+  flex: 0 0 calc(33.33% - 24px);
+}
+
+/* Приклад стилів для елементів портфеля */
+.start-apps img {
+  width: 100%;
+  height: auto;
 }
 .start_app_header {
   color: var(--NAVY-BLUE, #2e2f42);
