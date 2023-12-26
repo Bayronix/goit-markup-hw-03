@@ -88,7 +88,7 @@ nav ul {
   gap: 40px;
   justify-content: space-between;
 }
-.cont-link {
+.adress_link {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
@@ -256,7 +256,7 @@ nav ul {
   text-align: center;
 }
 .list-container {
-  flex-basis: calc((100% - 72px) / 4);
+  width: calc((100% - 3 * 24px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .name {
@@ -296,6 +296,7 @@ nav ul {
 .container-portfolio {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
+  border-top: none;
 }
 .start-apps {
   width: calc((100% - 48px) / 3);
