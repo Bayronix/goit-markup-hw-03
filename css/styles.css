@@ -192,7 +192,7 @@ nav ul {
 
 /* Стилі для списку в секції */
 /* Стилі для пункту списку в секції */
-.section-list-item {
+.section-list-gap {
   width: calc((100% - 72px) / 4);
   display: flex;
   gap: 24px;
