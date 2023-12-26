@@ -229,7 +229,7 @@ nav ul {
 /* Section 4 */
 .portfolio-section {
   background: var(--WHITE, #fff);
-  padding-top: 120px;
+  padding: 120px 0 120px 0;
 }
 
 .portfolio_header {
