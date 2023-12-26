@@ -164,7 +164,7 @@ nav ul {
 
 /* Section-2 */
 /* Стилі для заголовка з класом, заданими в описі */
-.Information_section {
+.information_section {
   padding: 120px 0;
 }
 .section-list-item-title {
@@ -227,11 +227,12 @@ nav ul {
   padding: 32px 0;
 }
 /* Section 4 */
-.Portfolio-section {
+.portfolio-section {
   background: var(--WHITE, #fff);
+  padding-top: 120px;
 }
 
-.Portfolio_header {
+.portfolio_header {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   font-family: Roboto;
@@ -240,6 +241,13 @@ nav ul {
   line-height: 1.1111; /* Замість 40px */
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin-bottom: 72px;
+}
+.start-apps {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 .start_app_header {
   color: var(--NAVY-BLUE, #2e2f42);
