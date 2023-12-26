@@ -165,7 +165,7 @@ nav ul {
 /* Section-2 */
 /* Стилі для заголовка з класом, заданими в описі */
 /* Стилі для секції */
-.section {
+.information_section {
   padding: 120px 0;
 }
 
@@ -187,14 +187,11 @@ nav ul {
 }
 
 /* Стилі для списку в секції */
-.section-list {
-  display: flex;
-  gap: 24px;
-}
-
 /* Стилі для пункту списку в секції */
 .section-list-item {
   width: calc((100% - 72px) / 4);
+  display: flex;
+  gap: 24px;
 }
 
 /* Стилі для заголовка в пункті списку */
