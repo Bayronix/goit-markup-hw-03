@@ -199,7 +199,7 @@ nav ul {
   margin-bottom: 72px;
 }
 
-.list {
+.list-item {
   background-color: #ffffff;
   display: flex;
   gap: 24px;
@@ -213,11 +213,6 @@ nav ul {
   color: #2e2f42;
   text-align: center;
   margin-bottom: 8px;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  flex-basis: calc((100% - 72px) / 4);
-  border-radius: 0px 0px 4px 4px;
 }
 
 .list-paragraph {
