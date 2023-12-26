@@ -295,6 +295,7 @@ nav ul {
 /* Приклад стилів для елементів портфеля */
 .start-apps img {
   width: 100%;
+  display: block;
   height: auto;
 }
 
