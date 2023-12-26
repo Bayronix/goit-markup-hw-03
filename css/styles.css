@@ -229,7 +229,8 @@ nav ul {
 /* Section 4 */
 .portfolio-section {
   background: var(--WHITE, #fff);
-  padding: 120px 0 120px 0;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio_header {
@@ -243,7 +244,7 @@ nav ul {
   text-transform: capitalize;
   margin-bottom: 72px;
 }
-.start-apps {
+.start_apps {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
