@@ -196,11 +196,13 @@ nav ul {
   display: flex;
   gap: 24px;
 }
+.section-list-item {
+  width: calc((100% - 72px) / 4);
+}
 
 /* Стилі для заголовка в пункті списку */
 .section-list-item h3 {
   margin-bottom: 8px;
-  width: calc((100% - 72px) / 4);
 }
 
 /* Загальні стилі для прихованого тексту */
