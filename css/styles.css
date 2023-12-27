@@ -196,7 +196,7 @@ nav ul {
   display: flex;
   gap: 24px;
 }
-.section-list {
+.section-list-item {
   width: calc((100% - 72px) / 4);
 }
 
