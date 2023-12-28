@@ -202,10 +202,12 @@ nav ul {
   display: flex;
   gap: 24px;
 }
+
 .section-list-gap {
   list-style-type: none;
 }
-.section-list-item {
+
+.section_list_item {
   width: calc((100% - 72px) / 4);
 }
 
