@@ -312,6 +312,8 @@ nav ul {
 }
 .start-apps {
   width: calc((100% - 48px) / 3);
+  display: block;
+  height: auto;
 }
 
 /* Приклад стилів для елементів портфеля */
