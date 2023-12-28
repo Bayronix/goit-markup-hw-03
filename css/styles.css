@@ -161,6 +161,7 @@ nav ul {
   min-width: 169px;
   height: 56px;
   border: none;
+  margin: 0 auto;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
