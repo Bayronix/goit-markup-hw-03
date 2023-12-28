@@ -16,6 +16,12 @@ body {
   padding: 0 15px;
 }
 
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .container {
   max-width: 1158px;
   margin-left: auto;
@@ -319,8 +325,6 @@ nav ul {
 /* Приклад стилів для елементів портфеля */
 .start-apps img {
   width: 100%;
-  display: block;
-  height: auto;
 }
 
 .start_app_header {
