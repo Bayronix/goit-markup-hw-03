@@ -213,7 +213,7 @@ nav ul {
   list-style-type: none;
 }
 .section-list-item {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
 }
 
 /* Стилі для заголовка в пункті списку */
@@ -277,7 +277,7 @@ nav ul {
   text-align: center;
 }
 .list-container {
-  width: calc((100% - 3 * 24px) / 4);
+  flex-basis: calc((100% - 72px) / 4);
   border-radius: 0px 0px 4px 4px;
 }
 .name {
@@ -318,7 +318,7 @@ nav ul {
   height: 300px;
 }
 .start-apps {
-  width: calc((100% - 48px) / 3);
+  flex-basis: calc((100% - 72px) / 4);
   display: block;
   height: auto;
 }
