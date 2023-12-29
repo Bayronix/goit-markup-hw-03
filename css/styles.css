@@ -212,7 +212,7 @@ nav ul {
 .section-list-gap {
   list-style-type: none;
 }
-.section-list-item {
+.section-list-item li {
   width: calc((100% - 72px) / 4);
 }
 
