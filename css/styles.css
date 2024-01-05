@@ -414,6 +414,15 @@ nav ul {
   padding: 100px 0;
 }
 
+.container-2 {
+  flex: 1;
+  max-width: 1158px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .footer-paragraph {
   color: var(--CLOUD, #f4f4fd);
 
